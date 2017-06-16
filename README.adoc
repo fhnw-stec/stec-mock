@@ -1,3 +1,3 @@
-## Hello World 
+## Title of 3rd Step 
 
-We have a new file: `hello-world.txt`
+TODO: Describe 3rd step
