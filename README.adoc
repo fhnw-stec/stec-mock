@@ -1,3 +1,5 @@
-## Title of 3rd Step 
+= Level 0 Title
 
-TODO: Describe 3rd step
+== Level 1 Title
+
+Testing stec-recorder's new new description editor
