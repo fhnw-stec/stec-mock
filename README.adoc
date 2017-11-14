@@ -1,5 +1,3 @@
-= Level 0 Title
+= Files & Folders
 
-== Level 1 Title
-
-Testing stec-recorder's new new description editor
+To test file tree display
